@@ -1,9 +1,5 @@
-# rese-as_ecommerce
-Datos de reseñas de un ecommerce.
-
-
 # Análisis de comentarios de un ecommerce.
-Analizar las reseñas de los clientes cuando compran los productos de una tienda online.
+Analizar las reseñas o comentarios de los clientes cuando compran los productos de una tienda online.
 
 Los datos han sido obtenidos de:
 
